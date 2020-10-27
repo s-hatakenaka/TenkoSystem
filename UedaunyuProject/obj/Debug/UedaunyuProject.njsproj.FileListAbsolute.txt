@@ -5,3 +5,5 @@ C:\Users\takum\Documents\hokuriku_tosbac\Uedaunyu\Uedaunyu-Tenkosystem\UedaunyuP
 C:\Users\takum\Documents\hokuriku_tosbac\Uedaunyu\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\bin\Microsoft.NodejsTools.WebRole.dll
 C:\Users\shhok\Source\Repos\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\obj\Debug\UedaunyuProject.njsproj.CoreCompileInputs.cache
 C:\Users\shhok\Source\Repos\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\bin\Microsoft.NodejsTools.WebRole.dll
+G:\仕事\TenkoSystem\UedaunyuProject\obj\Debug\UedaunyuProject.njsproj.CoreCompileInputs.cache
+G:\仕事\TenkoSystem\UedaunyuProject\bin\Microsoft.NodejsTools.WebRole.dll
