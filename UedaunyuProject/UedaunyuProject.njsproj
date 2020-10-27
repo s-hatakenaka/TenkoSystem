@@ -222,26 +222,8 @@
     <Content Include="src\layout\TopNavbar.vue" />
     <Content Include="src\layout\Wrapper.vue" />
     <Content Include="src\main.js" />
-    <Content Include="src\pages\ChikuSeisansyaBetsuSeisanhyou.vue" />
-    <Content Include="src\pages\HanbaiSyukei.vue" />
-    <Content Include="src\pages\HaraidashiTyouseiNyuryoku.vue" />
-    <Content Include="src\pages\HurikaeMeisaisyo.vue" />
     <Content Include="src\pages\Login.vue" />
-    <Content Include="src\pages\MasterHousou.vue" />
-    <Content Include="src\pages\MasterMeisyo.vue" />
     <Content Include="src\pages\MasterMember.vue" />
-    <Content Include="src\pages\MasterSeisansya.vue" />
-    <Content Include="src\pages\MasterShijo.vue" />
-    <Content Include="src\pages\MasterShisyo.vue" />
-    <Content Include="src\pages\MasterShizai.vue" />
-    <Content Include="src\pages\MastershizaiKanri.vue" />
-    <Content Include="src\pages\MasterSyouhin.vue" />
-    <Content Include="src\pages\MasterUnchin.vue" />
-    <Content Include="src\pages\NiukeMonitorList.vue" />
-    <Content Include="src\pages\NiukeNyuryoku.vue" />
-    <Content Include="src\pages\NiukeSyukei.vue" />
-    <Content Include="src\pages\NiukeZisseki.vue" />
-    <Content Include="src\pages\NyukinNyuryoku.vue" />
     <Content Include="src\pages\RollCallLogFormOutput.vue">
       <SubType>Code</SubType>
     </Content>
@@ -251,22 +233,6 @@
     <Content Include="src\pages\RollCallStatus.vue">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="src\pages\Sample.vue" />
-    <Content Include="src\pages\SeisanGyoumu.vue" />
-    <Content Include="src\pages\SeisanMeisaiDataExcelSytsuryoku.vue" />
-    <Content Include="src\pages\ShiharaiMeisaisyo.vue" />
-    <Content Include="src\pages\ShijobetsuHanbaiSyukeihyou.vue" />
-    <Content Include="src\pages\SizebetsuShijoHanbaihyou.vue" />
-    <Content Include="src\pages\SyukkaKakutei.vue" />
-    <Content Include="src\pages\SyukkaNyuryoku.vue" />
-    <Content Include="src\pages\SyukkaYoteiNyuryoku.vue" />
-    <Content Include="src\pages\TankaSyusei.vue" />
-    <Content Include="src\pages\TokyubetsuNiukeIchiran.vue" />
-    <Content Include="src\pages\TokyubetsuZaikoIchiran.vue" />
-    <Content Include="src\pages\TokyugaiDataIkkatsuHenkou.vue" />
-    <Content Include="src\pages\UriageSyukeihyou.vue" />
-    <Content Include="src\pages\ZaikoKoushin.vue" />
-    <Content Include="src\pages\ZitsutanaNyuryoku.vue" />
     <Content Include="src\router.js" />
     <Content Include="src\views\About.vue" />
     <Content Include="src\views\Dashboard.vue" />
