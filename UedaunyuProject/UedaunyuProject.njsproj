@@ -29,7 +29,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="route.json">
+    <Content Include="public\route.json">
       <SubType>Code</SubType>
     </Content>
     <Content Include="public\bootstrap\dist\css\bootstrap-grid.css" />
