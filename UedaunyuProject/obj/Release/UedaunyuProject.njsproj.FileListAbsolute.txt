@@ -1,0 +1,2 @@
+G:\仕事\TenkoSystem\UedaunyuProject\obj\Release\UedaunyuProject.njsproj.CoreCompileInputs.cache
+G:\仕事\TenkoSystem\UedaunyuProject\bin\Microsoft.NodejsTools.WebRole.dll
