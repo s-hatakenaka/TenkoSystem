@@ -1,0 +1,7 @@
+C:\Users\User\Documents\hokuriku_tosbac\Uedaunyu\project\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\obj\Debug\UedaunyuProject.njsprojAssemblyReference.cache
+C:\Users\User\Documents\hokuriku_tosbac\Uedaunyu\project\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\takum\Documents\hokuriku_tosbac\Uedaunyu\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\obj\Debug\UedaunyuProject.njsprojAssemblyReference.cache
+C:\Users\takum\Documents\hokuriku_tosbac\Uedaunyu\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\obj\Debug\UedaunyuProject.njsproj.CoreCompileInputs.cache
+C:\Users\takum\Documents\hokuriku_tosbac\Uedaunyu\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\shhok\Source\Repos\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\obj\Debug\UedaunyuProject.njsproj.CoreCompileInputs.cache
+C:\Users\shhok\Source\Repos\Uedaunyu-Tenkosystem\UedaunyuProject\UedaunyuProject\bin\Microsoft.NodejsTools.WebRole.dll
